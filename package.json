@@ -1,0 +1,16 @@
+{
+  "name": "tic-tac-toe-game",
+  "version": "1.0.0",
+  "description": "This readme file provides an overview of the Tic-Tac-Toe game implemented using Node.js and socket.io. The game allows two players to connect and play against each other in a browser-based environment.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.2"
+  }
+}
